@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FuelR</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ttl">FuelR</string>
+    <string name="M">MPG</string>
+    <string name="K">KML</string>
+    <string name="btn">Convert</string>
+
+    <string name="hnt1">KM/Liter</string>
+    <string name="hnt2">MPG</string>
+</resources>
+
